@@ -89,3 +89,5 @@ Kelebihan:
 Kekurangan:
 *Ketergantungan pada Pusat: Jika perangkat pusat mengalami kerusakan, seluruh jaringan komunikasi dapat terputus.
 *Keterbatasan Jangkauan: Kinerja bisa terpengaruh jika terlalu banyak perangkat terhubung ke satu perangkat pusat.
+
+Topologi jaringan yang paling aman adalah topologi Mesh karena menyediakan koneksi khusus ke setiap node dan kemungkinan kehilangan paket data minimal dan keamanan yang ditawarkan adalah yang terbaik.
